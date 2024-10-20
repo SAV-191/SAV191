@@ -339,6 +339,10 @@ if _name_ == "_main_":
 
    ![WhatsApp Image 2024-10-20 at 09 13 09_c2844db5](https://github.com/user-attachments/assets/9bd50c7a-6e3f-4f9b-9c5b-cc8b3958272a)
 
+Mean Squared Error: 1.0771965769574594
+Future Waste Generation Predictions (2024-2030):
+[56.55040092 57.50286369 58.45532646 59.40778923 60.360252   61.31271478
+ 62.26517755]
    ![WhatsApp Image 2024-10-20 at 00 52 26_06211170](https://github.com/user-attachments/assets/bb64f62f-8313-447d-9e92-91e5b8c31b34)
 
 
