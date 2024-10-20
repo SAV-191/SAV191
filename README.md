@@ -332,11 +332,15 @@ if _name_ == "_main_":
 
 
     ## OUTPUT:
-    ![WhatsApp Image 2024-10-20 at 00 48 44_eb7cdf6c](https://github.com/user-attachments/assets/cc0ac495-9c98-4f0b-bff9-23f73053ef26)
+   
+![WhatsApp Image 2024-10-20 at 00 48 44_8a673186](https://github.com/user-attachments/assets/bd5a4eab-2e97-4739-b45a-b82ee1130d1b)
 
    ![WhatsApp Image 2024-10-20 at 09 12 46_a086639c](https://github.com/user-attachments/assets/25d7fec7-725a-45ea-86bc-0be6163941f3)
 
    ![WhatsApp Image 2024-10-20 at 09 13 09_c2844db5](https://github.com/user-attachments/assets/9bd50c7a-6e3f-4f9b-9c5b-cc8b3958272a)
+
+   ![WhatsApp Image 2024-10-20 at 00 52 26_06211170](https://github.com/user-attachments/assets/bb64f62f-8313-447d-9e92-91e5b8c31b34)
+
 
 
 
