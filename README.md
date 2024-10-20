@@ -58,7 +58,7 @@ The solution utilizes Python to develop a Smart Waste Management System (SWMS) f
            4.Energy Conversion Simulation to assess waste-to-energy processes.
 ````
 ## PROGRAM:
-
+```
 Import necessary libraries
 import numpy as np
 import pandas as pd
@@ -144,7 +144,7 @@ plt.xlabel('Year')
 plt.ylabel('Waste Generated (million tons)')
 plt.legend()
 plt.show()
-
+```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/de2e1029-ae26-4a9e-991d-acf2bffe8ea6)
 ![image](https://github.com/user-attachments/assets/08e54cfc-5803-4f87-a3e2-86b2a7ec4800)
@@ -190,12 +190,12 @@ Economic Data (costs, revenues, savings).
 ```
 ## PROJECT OVERVIEW FOR SMART WATE MANAGEMENT SYSTEM:
 ## PROBLEM STATEMENT :
-
+```
 The study aims to explore how smart waste management systems (SWMS) can convert waste into energy (WtE) efficiently, reducing environmental impacts while contributing to energy sustainability. These systems utilize technologies like IoT sensors, AI, and data analytics to optimize waste collection, sorting, and conversion processes. By comparing Japan’s advanced WtE system with other countries, the study seeks to highlight best practices and identify key areas for improvement in other regions. Japan’s experience with waste-to-energy technologies, high recycling rates, and strict regulations offers a valuable model for addressing global waste management challenges. This comparative analysis will provide insights into how countries can enhance their waste-to-energy capabilities, mitigate environmental harm, and transition towards a more circular, sustainable economy.
 The study focuses on examining how Smart Waste Management Systems (SWMS) can transform waste into energy (WtE) efficiently, aiming to reduce environmental impacts and enhance energy sustainability. By utilizing cutting-edge technologies such as IoT sensors, artificial intelligence (AI), and data analytics, these systems can improve waste collection, sorting, and conversion processes, making WtE more effective and sustainable.
-
+```
 ## PROGRAM:
-
+```
 import random
 
 Sample data for waste collection (in tons)
@@ -270,7 +270,7 @@ def simulate_smart_waste_management():
 
  Run the simulation
 simulate_smart_waste_management()
-
+```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/934d3122-9e50-42b5-8c7d-9616e7614ace)
 
