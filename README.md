@@ -10,7 +10,7 @@ trishasailendran@gmail.com
  3.DHIVYADHARSHINI.S - dhivyaddsiva2004@gmail.com
  4.TRISHA.S - trishasailendran@gmail.com
  5.MAHALAKSHMI.A - mahalakshmimahalakshmi62835@gmail.com
-  
+ 
  ## COLLEGE NAME: SAVEETHA ENGINEERING COLLEGE
 
  ## IDEA TITLE: SMART WASTE MANAGEMENT SYSTEM IN WASTE TO ENERGY USING PYTHON PROGRAM.
